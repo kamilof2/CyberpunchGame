@@ -49,9 +49,7 @@ public class PlayerMovement : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        //  Vector2 aimDirection = mousePosition - rb.position;
-       // float aimAngle = Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg - 90f;
-       // rb.rotation = aimAngle;
+
         transform.RotateAround(Vector3.zero, Vector3.forward, movement * movementSpeed * -Time.deltaTime);
 
         Vector3 orbVector = Camera.main.WorldToScreenPoint(orb.position);
@@ -61,10 +59,5 @@ public class PlayerMovement : MonoBehaviour
         pivot.position = orb.position;
         pivot.rotation = Quaternion.AngleAxis(angle - 90, Vector3.forward);
 
-
-    }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-       // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
