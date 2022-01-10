@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{f673de49-54dd-44cd-b119-de48e9013915}">
+		<property name="assetPath">
+			<value>Rocks, Crash &amp; Debris, Heavy, Big Hit, Stone Debris 04 SND45408.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7104843750000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{baaf100d-cae7-4b7f-969c-903920d9e29f}</destination>
+		</relationship>
+	</object>
+</objects>

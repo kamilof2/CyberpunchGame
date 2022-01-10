@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2dc1a68b-0ed0-49d6-9031-3bbec1abcf77}">
+		<property name="assetPath">
+			<value>Fight, Impact, Magic Hits, Thick, Punchy SND59368.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.40810416666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{baaf100d-cae7-4b7f-969c-903920d9e29f}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c72da5c3-ef65-47ad-be6a-c60e73dae6e5}">
+		<property name="assetPath">
+			<value>Saber Humming by arnaljl Id-67878.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>58.613310657596372</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{baaf100d-cae7-4b7f-969c-903920d9e29f}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{d6aae13c-39a1-401f-9feb-9ecee31cff87}">
+		<property name="assetPath">
+			<value>Perturbator - Assault [Music Video].wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>252.44735416666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{baaf100d-cae7-4b7f-969c-903920d9e29f}</destination>
+		</relationship>
+	</object>
+</objects>

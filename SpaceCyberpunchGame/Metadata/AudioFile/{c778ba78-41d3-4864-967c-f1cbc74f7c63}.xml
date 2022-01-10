@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c778ba78-41d3-4864-967c-f1cbc74f7c63}">
+		<property name="assetPath">
+			<value>Explosions, Real, Boom, Distant Explosion 03 SND46327.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7014583333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{baaf100d-cae7-4b7f-969c-903920d9e29f}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+{
+    "Supply":[
+    {
+        "Name"  : "playerHealth",
+        "Value" : 10.0
+    },
+    {
+        "Name"  : "planetHealth",
+        "Value" : 10.0
+    },
+    {
+        "Name"  : "fullPlayerHealth",
+        "Value" : 100.0
+    },
+    {
+        "Name"  : "fullPlanetHealth",
+        "Value" : 100.0
+    }
+
+
+    ]
+}
