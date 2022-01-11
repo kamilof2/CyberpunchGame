@@ -123,7 +123,7 @@ MonoBehaviour:
   Path: SpaceCyberpunchGame/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637774245729868972
+  lastModified: 637775118849987175
   FileSizes:
   - Name: Desktop
     Value: 25536544
@@ -332,7 +332,7 @@ MonoBehaviour:
   Path: SpaceCyberpunchGame/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637774245729888594
+  lastModified: 637775118850074923
   FileSizes:
   - Name: Desktop
     Value: 1634
@@ -403,7 +403,7 @@ MonoBehaviour:
   - {fileID: -6489917537682666687}
   StringsBanks:
   - {fileID: -1834024190602282465}
-  cacheTime: 637774245729888594
+  cacheTime: 637775118850074923
   cacheVersion: 10
 --- !u!114 &276168762812123702
 MonoBehaviour:
